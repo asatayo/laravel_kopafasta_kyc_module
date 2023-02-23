@@ -1,0 +1,11 @@
+{
+    "name": "KycModule",
+    "alias": "kycmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KycModule\\Providers\\KycModuleServiceProvider"
+    ],
+    "files": []
+}
